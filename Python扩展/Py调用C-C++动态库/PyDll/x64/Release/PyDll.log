@@ -1,0 +1,7 @@
+﻿  PyDLL.cpp
+    正在创建库 C:\Users\liuzh\Desktop\Py调用C++动态库\PyDll\x64\Release\PyDll.lib 和对象 C:\Users\liuzh\Desktop\Py调用C++动态库\PyDll\x64\Release\PyDll.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PyDll.vcxproj -> C:\Users\liuzh\Desktop\Py调用C++动态库\PyDll\x64\Release\PyDll.dll

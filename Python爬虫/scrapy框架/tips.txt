@@ -1,0 +1,6 @@
+scrapy startproject [爬虫工程名：firstBlood]                                                 创建一个工程
+scrapy genspider [爬虫名称:first] [初始url：www.xxx.com]                              进入当前子目录创建一个爬虫文件
+scrapy genspider -t crawl [爬虫名称:first] [初始url：www.xxx.com]                 创建一个CrawlSpider子类爬虫文件
+scrapy crawl [爬虫名称：first] [op:--nolog (不打印日志)]                                执行工程
+scrapy crawl [爬虫名称:qiubai] -o ./qiubai.csv (爬虫名称)                               基于终端永久化存储（文本格式：json,jsonlines,jl,csv,xml,marshal,pickle）
+scrapy runspider [爬虫名称:fbs.py]                                                               执行工程（scrapy-redis分布式项目有的命令）

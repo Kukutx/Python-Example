@@ -1,0 +1,2 @@
+chmod a+x cc.txt / cc.py
+然后修改PY里的内容，自己填url和线程
